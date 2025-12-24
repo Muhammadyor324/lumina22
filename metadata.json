@@ -1,0 +1,9 @@
+
+{
+  "name": "Lumina AI",
+  "description": "A Cyber-Anime AI companion with dynamic image generation, voice capabilities, and a deep emotional memory system.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
